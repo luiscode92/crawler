@@ -6,6 +6,8 @@ open the .ipynb file in a jupyter notebook, and play everything
 
 **since I'm using a mac m1 pro I needed to instal feiss-cpu not feiss-gpu as its is sugested. but it works!
 
+# Summary
+
  The following are the tools that I used to build this prototype
 
  - Semantic search
@@ -15,7 +17,7 @@ open the .ipynb file in a jupyter notebook, and play everything
  - gpt-3
  - a .csv dataset (for individuals)
 
-# Summary
+
 The Crawler is a matching system for candidate and job offers, for that 
 I thought that We could use semantic search to capture the context of a job post and then match that context to relevant Cvs from a dataset
 
