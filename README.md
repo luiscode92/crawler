@@ -1,4 +1,11 @@
 # crawler
+
+# "instalation"
+
+open the .ipynb file in a jupyter notebook, and play everything
+
+**since I'm using a mac m1 pro I needed to instal feiss-cpu not feiss-gpu as its is sugested. but it works!
+
  The following are the tools that I used to build this prototype
 
  - Semantic search
